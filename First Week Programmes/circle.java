@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class circle {
-    
     public static double Area (double radius){
         double r = radius;
         double Area = 2*(22/7)*Math.pow(r, 2);
