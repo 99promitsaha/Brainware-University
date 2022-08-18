@@ -13,9 +13,7 @@ public class buzzNumber {
     public static void main (String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number to check Buzz Number or Not!");
-
         int number = sc.nextInt();
-
         int check = check(number);
 
         if (check == 1){
