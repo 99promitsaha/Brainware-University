@@ -23,7 +23,6 @@ public class fibonacciSeries {
 
         System.out.println("Enter the number of Fibonacci Numbers ");
         int num = sc.nextInt();
-
         print(num);
     }
 }
